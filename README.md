@@ -1,7 +1,7 @@
 ## Julián Anzaldúa
 **Data Engineer | Analytics Engineer** · Saltillo, México · UTC-6 · Open to remote
 
-Economist turned data engineer. I build production ETL systems, not portfolio toys.
+Economist turned data engineer. I build production ETL systems backed by real business data.
 
 ---
 
