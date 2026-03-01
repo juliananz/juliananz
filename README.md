@@ -10,7 +10,7 @@ ETL pipeline processing 8M+ real POS transactions · FastAPI · GitHub Actions C
 
 [Live Dashboard](https://qsr-analytics-pricing.streamlit.app) · [API Docs](https://qsr-analytics-pricing-production.up.railway.app/docs)
 
-### 📰 Monitoreo de Medios
+### 📰 Monitoreo de Medios (in progress)
 NLP pipeline · BERT NER · 13K+ articles · 11 Mexican news sources · LLM summaries
 
 ---
